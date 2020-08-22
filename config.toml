@@ -11,11 +11,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     post = "/:year/:month/:day/:slug/"
 
 [params]
-    author = "Nate Day"
+    author = "Wenping Zou"
     description = "Ph.D Student, University of Houston"
     logo = "wenpingzou2018.jpg"
-    twitterAuthor = "@natedayta"
-    githubUsername = "nathancday"
+    twitterAuthor = "@WenpingZou"
+    githubUsername = "zouwenping1991"
     accent = "#386890" # dark colors do best
     backgroundColor = "#f5f5f5"
     font = "Mina" # should match the name on Google Fonts!
