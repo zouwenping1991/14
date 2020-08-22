@@ -76,7 +76,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     name = "fab fa-linkedin"
     weight = 4
 
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/users/5878751/nate"
-    name = "fab fa-stack-overflow"
-    weight = 5
+#[[menu.icon]]
+ #   url = "https://www.stackoverflow.com/users/5878751/nate"
+  #  name = "fab fa-stack-overflow"
+   # weight = 5
