@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "Nate Day"
-    description = "An easy reading Hugo blog with night-mode."
+    description = "Ph.D Student, University of Houston"
     logo = "wenpingzou2018.jpg"
     twitterAuthor = "@natedayta"
     githubUsername = "nathancday"
@@ -30,7 +30,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 1
 
 [[menu.main]]
-    url = "/"
+    url = "/About/"
     name = "About"
     weight = 2
     
