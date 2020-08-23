@@ -7,8 +7,8 @@ disqusShortname = ""
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
+#[permalinks]
+ #   post = "/:year/:month/:day/:slug/"
 
 [params]
     author = "Wenping Zou"
@@ -52,6 +52,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     url = "/Teaching/"
     name = "Teaching"
     weight = 5
+    
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
