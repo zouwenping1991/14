@@ -1,7 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Wenping Zou"
-description = "Ph.D Student, University of Houston"
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""

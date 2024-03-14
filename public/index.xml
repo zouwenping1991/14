@@ -1,96 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>min_night</title>
-    <link>/</link>
-    <description>Recent content on min_night</description>
+    <title>Wenping Zou</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Wenping Zou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1</title>
-      <link>/project/project1/</link>
+      <link>//localhost:1313/project/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/project1/</guid>
+      <guid>//localhost:1313/project/project1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Project 2</title>
-      <link>/project/project2/</link>
+      <link>//localhost:1313/project/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/project2/</guid>
-      <description></description>
+      <guid>//localhost:1313/project/project2/</guid>
+      <description>This is a project!</description>
     </item>
-    
     <item>
       <title>Project 3</title>
-      <link>/project/project3/</link>
+      <link>//localhost:1313/project/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/project3/</guid>
+      <guid>//localhost:1313/project/project3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Project 4</title>
-      <link>/project/project4/</link>
+      <link>//localhost:1313/project/project4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/project4/</guid>
+      <guid>//localhost:1313/project/project4/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>//localhost:1313/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>//localhost:1313/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown&#xD;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.&#xA;You can embed an R code chunk like this:&#xA;summary(cars)&#xD;## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
     <item>
       <title>Creating a New Theme</title>
-      <link>/2014/09/28/creating-a-new-theme/</link>
+      <link>//localhost:1313/post/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/2014/09/28/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>//localhost:1313/post/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&#xA;We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
-    
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>/2014/04/02/hugo-template-primer/</link>
+      <link>//localhost:1313/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/2014/04/02/hugo-template-primer/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>//localhost:1313/post/goisforlovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.&#xA;This document is a brief primer on using go templates.</description>
     </item>
-    
     <item>
       <title>Getting Started with Hugo</title>
-      <link>/2014/04/02/getting-started-with-hugo/</link>
+      <link>//localhost:1313/post/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/2014/04/02/getting-started-with-hugo/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>//localhost:1313/post/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.&#xA;Save it somewhere specific as we will be using it in the next step.&#xA;More complete instructions are available at installing hugo&#xA;Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.&#xA;Follow the following steps:&#xA;Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:</description>
     </item>
-    
     <item>
       <title>Migrate from Jekyll</title>
-      <link>/2014/03/10/migrate-from-jekyll/</link>
+      <link>//localhost:1313/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/2014/03/10/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
-▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>//localhost:1313/post/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like&#xA;▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become&#xA;▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
-    
+    <item>
+      <title>About me</title>
+      <link>//localhost:1313/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about-me/</guid>
+      <description>I am Wenping Zou, a Ph.D. majored in Chemistry. Prior to obtain my Ph.D. degree in University of Houston at 2022, I earned my bachelor degree of Polymer Engineering in HeFei University of Technology at 2014 and the master degree in Polymer Chemistry&amp;amp; Physics in University of Science and Technology of China at 2017. Now my research interests focus on studies of microbiology and fluorescent proteins&#xA;You can view my CV here.</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>//localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publications/</guid>
+      <description>Xinyue Wu, Wenping Zou, Shengyu Dai* Functionalized semi‐crystalline polyethylene with polar groups at branch end enabled by bulky cationic palladium catalysts. J. Polym. Sci. 2023, 61, 3288. (https://doi.org/10.1002/pol.20230546)&#xA;Weiqing Lu, Beihang Ding, Wenping Zou, Shengyu Dai* Direct synthesis of polyethylene thermoplastic elastomers with high molecular weight and excellent elastic recovery via a hybrid steric bulky strategy. Eur. Polym. J. 2023, 201, 112577. (https://doi.org/10.1016/j.eurpolymj.2023.112577)&#xA;Makena K. Janis†, Wenping Zou†, Melissa L.</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>//localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/</guid>
+      <description>• 09/2023-now Postdoctoral Research Fellow, Department of Public Health, UTHealth Houston, Advisor: Prof. Zhongming Zhao, Research Area &amp;amp; Topics: Bioinformatic, Drug synergy, Proteomics (link to Zhao&amp;rsquo;s lab)&#xA;• 09/2022-08/2023 Postdoctoral Research Fellow, Department of Chemical Engineering, University of Texas at Austin, Advisor: Prof. Benjamin (Keith) Keitz, Research Area &amp;amp; Topics: Synthetic Biology/ Metabolic Redox Catalysis (link to Keitz&amp;rsquo; lab)&#xA;• 09/2017-07/2022 Research Assistant, Department of Chemistry, University of Houston, Advisor: Prof.</description>
+    </item>
+    <item>
+      <title>Teaching Experiences</title>
+      <link>//localhost:1313/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching/</guid>
+      <description>(This is my teaching experience.)&#xA;09/2017-12/2021 Teaching Assistant, Organic Lab I&#xA;03/2017-06/2017 Teaching Assistant, Organic Chemistry II&#xA;09/2015-01/2016 Teaching Assistant, Organic Chemistry I</description>
+    </item>
   </channel>
 </rss>
